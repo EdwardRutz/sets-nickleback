@@ -19,8 +19,9 @@ From a nested array of artists and songs, many of which are from Nickleback, cre
 
 
 ## References
-http://www.tutorialspoint.com/ruby/ruby_if_else.htm
-https://stackoverflow.com/questions/42432528/how-and-unless-include-differe
+- http://www.tutorialspoint.com/ruby/ruby_if_else.htm
+
+- https://stackoverflow.com/questions/42432528/how-and-unless-include-differe
 
 
 
